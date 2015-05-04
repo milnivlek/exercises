@@ -1,0 +1,6 @@
+Satisfy any
+
+RewriteEngine on
+RewriteRule search search.php
+RewriteRule compare compare.php
+
